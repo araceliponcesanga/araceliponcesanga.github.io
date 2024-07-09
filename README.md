@@ -5,3 +5,4 @@ npm i
 
 
 npm run build antes de push
+quitar folder 'out' de gitgnore
